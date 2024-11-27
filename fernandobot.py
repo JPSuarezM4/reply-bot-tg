@@ -7,7 +7,7 @@ from telegram.ext.filters import ALL
 MESSAGE_QUEUE = []
 
 # Reemplaza con el ID del chat o grupo destino
-DESTINATION_CHAT_IDS = ["-4797802524", "-1002475036295"]
+DESTINATION_CHAT_IDS = ["-4797802524", "-1002163091334"]
 
 
 # Función para manejar mensajes del grupo origen y almacenarlos
